@@ -18,7 +18,7 @@ I am a Fullstack web developer student and an aspiring Technical Project Manager
 
 I am passionate about technology inclusivity, accessibility and leaving my reach of the world a better place than I found it.
 
-When I’m not leading and developing projects, I enjoy visiting natural landscapes with my Belgian Malinois, art museums, real estate, and honing my technical skills with ongoing short courses. I’m excited to utilize my cumulative experience to lead a fast-paced, quality-driven team that build better experiences with clients on the web. 
+When I’m not leading and developing projects, I enjoy visiting natural landscapes with my Belgian Malinois, art museums, real estate, and honing my technical skills with ongoing short courses. I’m excited to utilize my cumulative knowledge and experience to lead a fast-paced, quality-driven team that build better experiences with clients on the web. 
 
 Contact me to chat about our next project!
 
