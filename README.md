@@ -31,7 +31,7 @@ When I’m not leading and developing projects, I enjoy visiting natural landsca
 ### Languages
 <img src="https://user-images.githubusercontent.com/93940394/156291675-b4203c8a-dfac-4ebf-9044-3366ed969a14.jpg" width="80" height="60"> <img src="https://user-images.githubusercontent.com/93940394/156292612-2a294ac5-56d6-482a-b296-c72938e41a5e.jpg" width="80" height="60"> JavaScript, SQL
 
-### Frameworks/Libraries/Runtime Envir.
+### Frameworks ETC.
 Node, Express, jQuery, React
 
 ### Freelance Projects
