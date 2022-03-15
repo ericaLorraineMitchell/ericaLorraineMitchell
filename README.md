@@ -18,7 +18,7 @@ I am a Fullstack web developer student and an aspiring Technical Project Manager
 
 I am passionate about technology inclusivity, accessibility and leaving my reach of the world a better place than I found it.
 
-When I’m not leading and developing projects, I enjoy visiting natural landscapes with my Belgian Malinois, art museums, real estate, and honing my technical skills with ongoing short courses. I’m excited to utilize my cumulative knowledge and experience to lead a fast-paced, quality-driven team that build better experiences with clients on the web. 
+When I’m not leading and developing projects, I enjoy visiting natural landscapes with my Belgian Malinois, art museums, real estate, and honing my technical skills with ongoing  courses. I’m excited to utilize my cumulative knowledge and professional experience to lead a fast-paced, quality-driven Development team.
 
 
 📫 Email: elorrainemitchell@gmail.com
@@ -29,7 +29,7 @@ When I’m not leading and developing projects, I enjoy visiting natural landsca
 
 
 ### Languages
-<img src="https://user-images.githubusercontent.com/93940394/156291675-b4203c8a-dfac-4ebf-9044-3366ed969a14.jpg" width="80" height="60"> <img src="https://user-images.githubusercontent.com/93940394/156292612-2a294ac5-56d6-482a-b296-c72938e41a5e.jpg" width="80" height="60"> JavaScript, SQL
+HTML, CSS, JavaScript, SQL
 
 ### Frameworks etc.
 Node, Express, jQuery, React
