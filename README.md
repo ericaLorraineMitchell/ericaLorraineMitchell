@@ -39,3 +39,4 @@ Node, Express, jQuery, React
 ### Freelance Projects
 
 ### Non-Profit Projects
+Good Journey Foundation
