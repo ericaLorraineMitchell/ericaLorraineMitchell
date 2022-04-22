@@ -49,7 +49,6 @@ I’m excited to utilize my cumulative knowledge and professional experience to 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
-### Freelance Projects
 
 ### Non-Profit Projects
 Good Journey Foundation
