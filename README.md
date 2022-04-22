@@ -52,5 +52,5 @@ I’m excited to utilize my cumulative knowledge and professional experience to 
 
 
 
-### Non-Profit Projects
+### Non-Profit Tech Projects
 Good Journey Foundation
