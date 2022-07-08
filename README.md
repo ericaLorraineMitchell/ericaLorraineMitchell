@@ -20,7 +20,7 @@ I am passionate about technology inclusivity, accessibility and leaving my reach
 
 When I’m not leading and developing projects, I enjoy visiting natural landscapes with my Belgian Malinois, art museums, real estate, and honing my technical skills with ongoing  courses. 
 
-I’m excited to utilize my cumulative knowledge and professional experience to lead a fast-paced, quality-driven development team.
+I’m excited to utilize my cumulative knowledge and professional experience to collabrate with a fast-paced, quality-driven development team.
 
 
 📫 Email: elorrainemitchell@gmail.com
