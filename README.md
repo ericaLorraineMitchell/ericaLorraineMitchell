@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Fullstack web developer student and an aspiring Technical Project Manager. My aim is to lead project executions that highlight intuitive and inclusive user experiences. 
+I am a Fullstack web developer and Technical Project Manager. My aim is to lead project executions that highlight intuitive and inclusive user experiences. 
 
 I am passionate about technology inclusivity, accessibility and leaving my reach of the world a better place than I found it.
 
